@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jalalghofrani
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in React & Python
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me by gmaill
 
