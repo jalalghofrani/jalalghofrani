@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jalalghofrani
-- 👀 I’m interested in React & Python
+- 👀 I’m interested in network security, Python & React.s 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
-- 📫 reach me by gmaill
+- 📫 reach me by gmaill 
 
 <!---
 jalalghofrani/jalalghofrani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
