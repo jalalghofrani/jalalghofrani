@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jalalghofrani
-- 👀 I’m interested in network security, Python & React.s 
+- 👀 I’m interested in network security, Python & React.js 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me by gmaill 
